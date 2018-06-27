@@ -1,2 +1,0 @@
-# gitBasics
-Learning Git Basics
